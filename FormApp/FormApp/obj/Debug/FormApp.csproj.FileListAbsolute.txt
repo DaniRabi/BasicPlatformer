@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\bin\Debug\FormApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\bin\Debug\FormApp.exe
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\bin\Debug\FormApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\obj\Debug\FormApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\obj\Debug\FormApp.exe
+c:\users\user\documents\visual studio 2015\Projects\FormApp\FormApp\obj\Debug\FormApp.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\FormApp\FormApp\obj\Debug\FormApp.g.resources
